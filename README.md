@@ -58,3 +58,19 @@ DATABASES = {
     }
 }
 ```
+
+### 5. Running the Django development server
+
+Once you have installed the dependencies and configured the database, you can run the Django development server with the following command:
+
+```bash
+python manage.py runserver
+```
+
+### 6. Access Admin
+On your explorer :
+```bash
+localhost:8000/admin
+```
+
+An you already are on login page! Checkout 'test django admin' on bitwarden. 

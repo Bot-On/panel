@@ -16,7 +16,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/Bot-On/panel.git
-cd bo
+cd panel
 ```
 
 ### 2. Create a virtual environment
